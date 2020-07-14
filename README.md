@@ -1,3 +1,3 @@
 # Wordpress
 
-Visit the [Wiki](/martindubenet/Wordpress/wiki) tab to get tips &amp; tricks related to Wordpress theme development
+Visit the [Wiki](https://github.com/martindubenet/Wordpress/wiki) tab to get tips &amp; tricks related to Wordpress theme development
